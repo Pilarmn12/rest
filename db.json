@@ -1,8 +1,9 @@
 {
-    "client": [
-      { "id": 1, "name": "Pilar Martinez", "CIF": "49210113A", "City": "Albacete" },
-      { "id": 2, "name": "Juan Martinez", "CIF": "48518647B", "City": "Valencia" },
-      { "id": 3, "name": "Alberto Lopez", "CIF": "492181123X", "City": "Madrid" },
-      { "id": 4, "name": "Pablo Martinez", "CIF": "49210112P", "City": "Albacete" }
-    ]
-  }
+    "client": 
+    { 
+        "id": 1, 
+        "name": "Pilar Martinez", 
+        "CIF": "49210113A", 
+        "City": "Albacete" 
+}
+}
